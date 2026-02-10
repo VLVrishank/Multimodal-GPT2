@@ -6,7 +6,7 @@
 
 ---
 
-## ⚡ The Core Concept
+##  The Core Concept
 Most multimodal systems rely on massive compute or pre-aligned models. This project explores a low-resource **"Intervention"** approach: forcing two alien models—a Vision Encoder (**CLIP**) and a Language Decoder (**GPT-2**)—to communicate by training only a microscopic "bridge" between them.
 
 ### Technical Stack
