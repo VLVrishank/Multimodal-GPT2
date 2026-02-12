@@ -52,4 +52,3 @@ The repository is being polished for open-source readability.
 This isn't an API wrapper. It is an exploration of **Alignment Bottlenecks**. It proves that even a 124M parameter model can perform cross-modal reasoning if the projection bridge is mathematically sound.
 
 ---
-*Created by [Your Name] — 2026 Research Series*
